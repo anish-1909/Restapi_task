@@ -1,8 +1,9 @@
-from services import *
+from services.services import *
 
 
 while True:
 
+    print("\nREST API CLIENT")
 
     print("1. Fetch all posts")
     print("2. Fetch post by ID")
